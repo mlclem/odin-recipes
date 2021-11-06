@@ -11,6 +11,7 @@ body {
     border-style:solid;
     border-radius: 20px;
     border-color: lightseagreen;
+    font-size: 30px;
 }
 
 #gif {
@@ -24,8 +25,10 @@ body {
 
 ul {
     justify-self: end;
+    font-size: 25px;
 }
 
+/*
 #almond {
     color: orange;
 }
@@ -36,4 +39,9 @@ ul {
 
 #shawarma {
     color:brown;
+}
+*/
+p {
+    font-size: 22px;
+    font-style: italic;
 }
