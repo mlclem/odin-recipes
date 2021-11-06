@@ -1,0 +1,41 @@
+body {
+    background-color: beige;
+    text-align: center;
+}
+
+
+h1 {
+    color: orange;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+body ul {
+    color:green;
+    text-align: justify;
+}
+
+h2 {
+    color: orangered;
+    font-size: 20px;
+    text-align: left;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 36%;
+}
+
+body ol {
+    color: green;
+    text-align: justify;
+}
+
+h3 {
+    text-align: left;
+    color: orangered;
+    
+}
+
+p {
+    color: green;
+    text-align: start;
+}
