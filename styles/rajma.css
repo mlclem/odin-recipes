@@ -1,0 +1,40 @@
+body {
+
+      background-color: darkslategray;
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      text-align: center;
+      color:gold;
+      font-size: 25px;
+  }
+  
+  .title {
+      border-style:solid;
+      border-radius: 40px;
+      border-color: yellow;
+      font-size: 30px;
+  }
+  
+  .img {
+      margin: auto;
+      display: block;
+      height: 30%;
+      width: 40%;
+  }
+  
+  .ingredients {
+      text-transform: uppercase;
+     }
+  
+  .ing-list {
+      display: inline;
+      text-align: center;
+      font-size: 25px;
+  }
+  
+  .method {
+      font-style: italic;
+  }
+
+  .met-list {
+    text-align: justify;
+  }
